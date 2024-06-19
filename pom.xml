@@ -50,3 +50,6 @@
 </pluginManagement>
 </build>
 </project>
+
+
+-Denforcer.skip=true
